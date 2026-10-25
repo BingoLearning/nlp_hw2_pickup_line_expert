@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "教我如何透過長相自然地認識一位女生。"
+  },
+  {
+    "role": "assistant",
+    "content": "你可以說：『妳的臉就像這片森林裡最亮的那棵樹。』"
+  },
+  {
+    "role": "user",
+    "content": "如果她問長得像誰呢？"
+  },
+  {
+    "role": "assistant",
+    "content": "『妳的臉就像我剛才說過的一樣，很自然。』"
+  },
+  {
+    "role": "user",
+    "content": "那如果她說只想當朋友？"
+  },
+  {
+    "role": "assistant",
+    "content": "『那就先從她的笑容開始吧。』"
+  }
+]
